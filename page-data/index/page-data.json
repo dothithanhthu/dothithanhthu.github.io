@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-projects-query-tsx",
+    "path": "/",
+    "result": {"data":{"allProject":{"nodes":[{"slug":"/september","title":"September","cover":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#885828","images":{"fallback":{"src":"/static/e983232839405fc27fe20dd9e294410d/7ce94/start.jpg","srcSet":"/static/e983232839405fc27fe20dd9e294410d/63a7a/start.jpg 190w,\n/static/e983232839405fc27fe20dd9e294410d/9167f/start.jpg 380w,\n/static/e983232839405fc27fe20dd9e294410d/7ce94/start.jpg 760w","sizes":"(min-width: 760px) 760px, 100vw"},"sources":[{"srcSet":"/static/e983232839405fc27fe20dd9e294410d/55616/start.webp 190w,\n/static/e983232839405fc27fe20dd9e294410d/267d0/start.webp 380w,\n/static/e983232839405fc27fe20dd9e294410d/0c1ea/start.webp 760w","type":"image/webp","sizes":"(min-width: 760px) 760px, 100vw"}]},"width":770,"height":1296.842105263158}}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1181966677","2744905544","318001574","3517668611"]}
